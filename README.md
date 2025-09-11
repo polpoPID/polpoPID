@@ -12,6 +12,8 @@ I am particularly interested in cybersecurity, critical infrastructure protectio
 As part of my Bachelor's degree in Technical Computer Science at TH Köln, I worked on several hands-on projects that combined software development, system design, and teamwork.  
 Below are two examples that highlight my skills in full-stack development, backend design, mobile app development, and project coordination.
 
+*(I’m currently preparing and documenting my projects for release)*
+
 ### MathGoesRetro
 Full-stack educational game platform (**Node.js**, **Supabase/PostgreSQL**, **JavaScript**, **Python**).  
 Member of a 4-person team, additionally serving as team spokesperson responsible for coordination and communication.  
